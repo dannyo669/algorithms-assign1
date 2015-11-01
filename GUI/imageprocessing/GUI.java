@@ -63,7 +63,7 @@ public class GUI {
 	 * Create the application.
 	 */
 	public GUI() {
-		test = new ConnectedComponentImage("images/stars.jpg");
+		test = new ConnectedComponentImage("images/bacteria.bmp");
 		initialize();
 	}
 
