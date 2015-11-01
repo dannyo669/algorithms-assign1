@@ -24,6 +24,9 @@ Drawing a border around an image:
 This works in more or less the same way as colouring the image, but instead of adding the colour it changes the min, and max x,y
 co ordinates then draws a red line for each of them.
 
+Junit Test Cases:
+I provided tests for the code that I created, but found test driven development kind of hard because I found that knowing how to test the code was hard so I'm not sure if they're comprehensive. The coverage for the class finished at about 80%.
+
 Extras:
 I added in a GUI, but since I had never done a GUI before it was difficult to get everything to work. I had to add in 
 additonal methods to get the binary image to work with the GUI because it was carrying it out twice. The buttons only work
