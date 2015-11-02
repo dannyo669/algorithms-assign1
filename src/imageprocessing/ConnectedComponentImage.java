@@ -19,7 +19,7 @@ import edu.princeton.cs.introcs.Picture;
  * <p>
  * You do the rest....
  * 
- * @author 
+ * @author Danny O'Leary 20067817
  *************************************************************************/
 public class ConnectedComponentImage {
 
